@@ -46,7 +46,7 @@ docutils==0.21.2
 duckdb==1.1.2
 email_validator==2.2.0
 Flask==3.0.3
-Flask-AppBuilder==4.5.1
+Flask-AppBuilder==4.5.3
 Flask-Babel==4.0.0
 Flask-Caching==2.3.0
 Flask-JWT-Extended==4.6.0
@@ -71,7 +71,7 @@ importlib_resources==6.4.5
 inflection==0.5.1
 isodate==0.7.2
 itsdangerous==2.2.0
-Jinja2==3.1.4
+Jinja2==3.1.6
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 lazy-object-proxy==1.10.0
